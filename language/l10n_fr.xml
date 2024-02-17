@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>DennisK</translationContributors>
+	
+	<!-- $l10n_ -->
+
+    <texts>
+		
+		<text name="color_mattBlack" 			text="Noir mat"/>
+		<text name="color_mattGrey" 			text="Gris mat"/>
+		<text name="color_chrome" 				text="Chrome"/>
+		
+		<text name="configuration_window"		text="Vitres teintées"/>
+		
+		
+		
+    </texts>
+</l10n>

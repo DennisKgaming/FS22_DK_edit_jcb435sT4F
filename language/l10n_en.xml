@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>DennisK</translationContributors>
+	
+	<!-- $l10n_ -->
+
+    <texts>
+	
+		<text name="configuration_warnDecals" 			text="Warning Signs"/>
+		<text name="configuration_beaconLight" 			text="Beacon Lights"/>
+		<text name="configuration_backHydraulic" 		text="Hydralic back"/>
+		<text name="configuration_valueNone1" 			text="None"/>
+		<text name="configuration_valuePlus2" 			text="+2"/>
+		
+		<text name="configuration_valueStickers" 		text="Stickers"/>
+		<text name="configuration_valueSigns" 			text="Signs"/>
+		<text name="configuration_valueStickerSigns" 	text="Stickers + Signs"/>
+		
+		<text name="configuration_valueLeftOut" 		text="Left Outside"/>
+		<text name="configuration_valueLeftIn" 			text="Left Inside"/>
+		<text name="configuration_valueRightOut" 		text="Right Outside"/>
+		<text name="configuration_valueRightIn" 		text="Right Inside"/>
+		<text name="configuration_valueLeftRightOut"	text="Left + Right Outside"/>
+		<text name="configuration_valueLeftRightIn"		text="Left + Right Inside"/>
+		
+		<text name="configuration_valueBackHydraulic"	text="+ Hydraulic back"/>
+		
+		<text name="color_JCBYellow" 					text="JCB Yellow"/>
+		<text name="color_JCBBlack" 					text="JCB Black"/>
+		
+		<text name="color_NormGrey" 					text="Default Grey"/>
+		<text name="color_mattBlack" 					text="Matt Black"/>
+		<text name="color_mattGrey" 					text="Matt Grey"/>
+		<text name="color_chrome" 						text="Chrome"/>
+		
+		<text name="configuration_valueWheelForest" 	text="Forest Tires"/>
+		<text name="configuration_window" 				text="Tinted windows"/>
+				
+    </texts>
+</l10n>

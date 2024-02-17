@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="71">
+    <author>RedCat3D, Pixxeldezign</author>
+    <version>1.1.0.0</version>
+    <title>
+        <en>JCB 435S Stage IV And V DK edit</en>
+    </title>
+    <description>
+        <en><![CDATA[JCB 435S Agri Tier4-Final 2018 and Tier5 2019.
+
+The JCB Wheelloader 435S is made for maximum productivity in farming operations. The 435S only comes with high quality components like Cummins-Engine, ZF-Transmission and -Axles and Rexroth-Pumps for best power to weight ratio as well as excellent longevity.
+Also its very safely, easy to maintain and with Eco-Mode as well as automatic neutral-circuit most fuel-efficient.
+
+Price:  184.000$
+Power:
+ Stage IV:  172kw/235hp
+ Stage  V:  185kw/252hp
+Diesel: 400l
+DEF:    40l]]></en>
+        
+    </description>
+    <iconFilename>icons/icon_jcb435s.dds</iconFilename>
+    <multiplayer supported="true" />
+	
+	<vehicleTypes>
+	    <type name="tractor_foldable" parent="baseDrivable" filename="$dataS/scripts/vehicles/Vehicle.lua">
+	        <specialization name="foldable" />
+        </type>
+	</vehicleTypes>
+	
+	<l10n filenamePrefix="language/l10n"/>
+
+    <storeItems>
+        <storeItem xmlFilename="xml/jcb435s_t4f.xml"/>
+    </storeItems>
+	
+	<brandColors>
+		<color name="JCB_BLACK1"   value="0.0120 0.0100 0.0070 1" />
+		<color name="NORMAL_GREY1" value="0.2940 0.2940 0.2940 1" />
+	</brandColors>
+		
+	<extraSourceFiles>
+        <sourceFile filename="scripts/categorizer.lua"/>
+    </extraSourceFiles>
+	
+	<newcategory name="DennisKvehicles" title="DennisK" type="VEHICLE" img="Categories/CategoryVehicles.png" />
+	
+</modDesc>

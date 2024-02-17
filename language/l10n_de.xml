@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>DennisK</translationContributors>
+	
+	<!-- $l10n_ -->
+
+    <texts>
+	
+		<text name="configuration_warnDecals" 			text="Warntafeln"/>
+		<text name="configuration_beaconLight" 			text="Rundumleuchten"/>
+		<text name="configuration_backHydraulic" 		text="Hydraulik hinten"/>
+		<text name="configuration_valueNone1" 			text="Keine"/>
+		<text name="configuration_valuePlus2" 			text="+2"/>
+		
+		<text name="configuration_valueStickers" 		text="Aufkleber"/>
+		<text name="configuration_valueSigns" 			text="Tafeln"/>
+		<text name="configuration_valueStickerSigns" 	text="Aufkleber + Tafeln"/>
+		
+		<text name="configuration_valueLeftOut" 		text="Links Außen"/>
+		<text name="configuration_valueLeftIn" 			text="Links Innen"/>
+		<text name="configuration_valueRightOut" 		text="Rechts Außen"/>
+		<text name="configuration_valueRightIn" 		text="Rechts Innen"/>
+		<text name="configuration_valueLeftRightOut"	text="Links +Rechts Außen"/>
+		<text name="configuration_valueLeftRightIn" 	text="Links +Rechts Innen"/>
+		
+		<text name="configuration_valueBackHydraulic" 	text="+ Hydraulik hinten"/>
+		
+		<text name="color_JCBYellow" 					text="JCB Gelb"/>
+		<text name="color_JCBBlack" 					text="JCB Schwarz"/>
+		
+		<text name="color_NormGrey" 					text="Standard Grau"/>
+		<text name="color_mattBlack" 					text="Mattschwarz"/>
+		<text name="color_mattGrey" 					text="Mattgrau"/>
+		<text name="color_chrome" 						text="Chrom"/>
+		
+		<text name="configuration_valueWheelForest" 	text="Forstreifen"/>
+		<text name="configuration_window" 				text="Getönte Scheiben"/>
+
+    </texts>
+</l10n>

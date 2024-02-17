@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>DennisK</translationContributors>
+	
+	<!-- $l10n_ -->
+
+    <texts>
+	
+		<text name="configuration_warnDecals" 			text="Waarschuwingsborden"/>
+		<text name="configuration_beaconLight" 			text="Zwaailampen"/>
+		<text name="configuration_backHydraulic" 		text="Hydrauliek achter"/>
+		<text name="configuration_valueNone1" 			text="Geen"/>
+		<text name="configuration_valuePlus2" 			text="+2"/>
+		
+		<text name="configuration_valueStickers" 		text="Stickers"/>
+		<text name="configuration_valueSigns" 			text="Borden"/>
+		<text name="configuration_valueStickerSigns" 	text="Stickers + Borden"/>
+		
+		<text name="configuration_valueLeftOut" 		text="Links Buiten"/>
+		<text name="configuration_valueLeftIn" 			text="Links Binnen"/>
+		<text name="configuration_valueRightOut" 		text="Rechts Buiten"/>
+		<text name="configuration_valueRightIn" 		text="Rechts Binnen"/>
+		<text name="configuration_valueLeftRightOut"	text="Links +Rechts Buiten"/>
+		<text name="configuration_valueLeftRightIn" 	text="Links +Rechts Binnen"/>
+		
+		<text name="configuration_valueBackHydraulic" 	text="+ Hydrauliek achter"/>
+		
+		<text name="color_JCBYellow" 					text="JCB Geel"/>
+		<text name="color_JCBBlack" 					text="JCB Zwart"/>
+		
+		<text name="color_NormGrey" 					text="Standaard Grijs"/>
+		<text name="color_mattBlack" 					text="Mat Zwart"/>
+		<text name="color_mattGrey" 					text="Mat Grijs"/>
+		<text name="color_chrome" 						text="Chroom"/>
+		
+		<text name="configuration_valueWheelForest" 	text="Bos profiel"/>
+		<text name="configuration_window" 				text="Bos profiel"/>
+		
+    </texts>
+</l10n>
